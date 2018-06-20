@@ -5,4 +5,8 @@ Language: Python
 
 Library: Numpy, Pandas, Scikit
 
-Algorithm: Random Forests
+Algorithm: Random Forests, 
+
+also Linear Regression (for practice sakes)
+
+Accuracy= 99.9 (I doubt overfitting, have to re-check the model)
